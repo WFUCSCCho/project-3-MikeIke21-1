@@ -1,5 +1,39 @@
 # Project 3 @ CSC 201 Fall 2024: Sorting Algorithms
 
+
+
+///GRAPHS///// If these links don't work I attached them in the src folder
+
+Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (already sorted):
+
+![Screenshot 2024-11-13 at 11.42.40 AM.png](img.png)
+
+Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (shuffled):
+
+![Screenshot 2024-11-13 at 11.43.01 AM.png](img1.png)
+
+Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (reversed):
+
+![Screenshot 2024-11-13 at 11.43.17 AM.png](img2.png)
+
+Bubble Sort and Odd-Even Transposition Sort comparison (already sorted):
+
+![Screenshot 2024-11-13 at 11.43.35 AM.png](img3.png)
+
+Bubble Sort and Odd-Even Transposition Sort comparison (shuffled):
+
+![Screenshot 2024-11-13 at 11.43.47 AM.png](img4.png)
+
+Bubble Sort and Odd-Even Transposition Sort comparison (reversed):
+
+![Screenshot 2024-11-13 at 11.44.04 AM.png](img5.png)
+
+
+
+
+
+
+
 ## Pledged Work Policy
 
 This is a ___Pledged Work___ assignment.  This means that the work you submit for grading ___must___ be your work product.  
@@ -95,18 +129,7 @@ Using your favorite graphing software (e.g., MS Excel or Google Sheets), plot th
 vs. N for each case. Take a screenshot of your graph and put them here by modifying this file, committing, and pushing 
 it to this repository.
 
-Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (already sorted):
-![image](https://github.com/user-attachments/assets/76f103c8-8c02-4bec-9966-99568f2effb6)
 
-Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (shuffled):
-
-Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (reversed):
-
-Bubble Sort and Odd-Even Transposition Sort comparison (already sorted):
-
-Bubble Sort and Odd-Even Transposition Sort comparison (shuffled):
-
-Bubble Sort and Odd-Even Transposition Sort comparison (reversed):
 
 ## Submission:
 
