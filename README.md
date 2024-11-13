@@ -2,18 +2,30 @@
 
 
 
-///GRAPHS
+///GRAPHS///// If these links don't work I attached them in the src folder
+
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (already sorted):
+
 ![Screenshot 2024-11-13 at 11.42.40 AM.png](img.png)
+
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (shuffled):
+
 ![Screenshot 2024-11-13 at 11.43.01 AM.png](img1.png)
+
 Bubble Sort, Merge Sort, Quick Sort, and Heap Sort running time (reversed):
+
 ![Screenshot 2024-11-13 at 11.43.17 AM.png](img2.png)
+
 Bubble Sort and Odd-Even Transposition Sort comparison (already sorted):
+
 ![Screenshot 2024-11-13 at 11.43.35 AM.png](img3.png)
+
 Bubble Sort and Odd-Even Transposition Sort comparison (shuffled):
+
 ![Screenshot 2024-11-13 at 11.43.47 AM.png](img4.png)
+
 Bubble Sort and Odd-Even Transposition Sort comparison (reversed):
+
 ![Screenshot 2024-11-13 at 11.44.04 AM.png](img5.png)
 
 
